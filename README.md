@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi there 👋, I'm Kshitij!
 
+## 🚀 About Me
+I'm a passionate developer and tech enthusiast focused on building innovative projects in Web Development.
+- 🔭 I’m currently working on WebRtc
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on Hackathon projects.
+- 🤔 I’m seeking guidance or opportunities for an internship.
+- 📫 How to reach me: kshitijgaikwad142004@gmail.com
 <!--
 **kshitij1439/kshitij1439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
