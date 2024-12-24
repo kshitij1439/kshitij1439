@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 I'm a passionate developer and tech enthusiast focused on building innovative projects in Web Development.
-- 🔭 I’m currently working on WebRtc
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on DevOps
+- 🌱 I’m currently learning WebRtc
 - 👯 I’m looking to collaborate on Hackathon projects.
 - 🤔 I’m seeking guidance or opportunities for an internship.
 - 📫 How to reach me: kshitijgaikwad142004@gmail.com
@@ -16,7 +16,7 @@ I'm a passionate developer and tech enthusiast focused on building innovative pr
 ## 🔥 GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kshitij1439&theme=react-dark)
 
-## 🛠️ Technologies & Skills
+## 🛠️ Technologies, Skills and Implementation
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4caf50?logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
