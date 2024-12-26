@@ -13,9 +13,6 @@ I'm a passionate developer and tech enthusiast focused on building innovative pr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij1439&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔥 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kshitij1439&theme=react-dark)
-
 ## 🛠️ Technologies, Skills and Implementation
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4caf50?logo=mongodb&logoColor=white)
@@ -25,8 +22,6 @@ I'm a passionate developer and tech enthusiast focused on building innovative pr
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white)
 ![CORS](https://img.shields.io/badge/-CORS-35495E?logo=webcomponents.org&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)
-![SIH 2023](https://img.shields.io/badge/-SIH%202023-00bcd4)
 ![CRUD](https://img.shields.io/badge/-CRUD-FFA500)
 ![REST API](https://img.shields.io/badge/-REST%20API-0d6efd?logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -42,8 +37,10 @@ I'm a passionate developer and tech enthusiast focused on building innovative pr
 ![EJS](https://img.shields.io/badge/-EJS-888888?logo=ejs&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![JEST](https://img.shields.io/badge/-JEST-C21325?logo=jest&logoColor=white)
-![DSA](https://img.shields.io/badge/-DSA-2b3137?logo=hackerrank&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=mui&logoColor=white)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)
+![SIH 2023](https://img.shields.io/badge/-SIH%202023-00bcd4)
+![DSA](https://img.shields.io/badge/-DSA-2b3137?logo=hackerrank&logoColor=white)
 
 
 ## 🙏 Thanks for Visiting!
